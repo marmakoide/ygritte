@@ -1,0 +1,10 @@
+#ifndef YGRITTE_MACROS_H
+#define YGRITTE_MACROS_H
+
+
+
+#define UNUSED_PARAM(x) x __attribute__((unused))
+
+
+
+#endif // YGRITTE_MACROS_H
