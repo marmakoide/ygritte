@@ -1,8 +1,8 @@
 [![Language](https://img.shields.io/badge/C%2B%2B-14-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization) [![MIT License badge](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/marmakoide/saucats/blob/master/LICENSE)
 
 # ygritte
-A C++ library to define and use programmable discretized reaction-diffusion.
-It is for a personal research project.
+A header only C++ library that provides duals and hyperdual numbers, to get 
+simple automatic differentation
 
 ## Authors
 
