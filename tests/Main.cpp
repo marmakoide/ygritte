@@ -1,7 +1,7 @@
 #include <minunit.h>
 
 #include <ygritte/Macros>
-#include <ygritte/DualNumber.h>
+#include <ygritte.h>
 
 #include <functional>
 #include <iostream>

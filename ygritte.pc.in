@@ -2,7 +2,7 @@ prefix=@PREFIX@
 includedir=${prefix}/include
 
 Name: ygritte
-Description: A C++ library to define and use programmable discretized reaction-diffusion 
+Description: A header-only C++ library that provides duals and hyperdual numbers, to get simple automatic differentation
 Version: @VERSION@
 Requires:
 Libs:
